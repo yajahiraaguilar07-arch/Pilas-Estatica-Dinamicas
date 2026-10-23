@@ -94,3 +94,16 @@ En la pila dinámica se insertan tres elementos y se extrae el que se encuentra 
 ## Conclusión
 
 La práctica permite comprender el principio LIFO y las diferencias entre el almacenamiento estático y dinámico. La pila estática ofrece una capacidad definida, mientras que la dinámica puede crecer según las necesidades y la memoria disponible. Ambas permiten organizar y manipular datos mediante operaciones de inserción, extracción y consulta.
+## Evidencia de ejecución
+
+El programa se ejecutó correctamente en IntelliJ IDEA. Durante la prueba se comprobó el funcionamiento de las pilas estática y dinámica.
+
+En la pila estática se agregaron los valores 10, 20 y 30. Al intentar insertar el valor 40, el programa indicó que la pila estaba llena. Después, se consultó y extrajo el elemento de la cima.
+
+En la pila dinámica se agregaron los valores 100, 200 y 300. Se comprobó que el último elemento agregado fue el primero en salir, de acuerdo con el principio LIFO.
+
+La ejecución finalizó sin errores.
+
+## Autor
+
+Yajahira Aguilar
